@@ -1,15 +1,14 @@
 ### FAMAE
 
-01 WRATH 0:23
+1. WRATH 0:23
 
-02 OMAN 1:00
+2. OMAN 1:00
 
-03 GUAM 1:00
+3. GUAM 1:00
 
-04 CEPH 1:00
+4. CEPH 1:00
 
-05 PARK 1:00
-
+5. PARK 1:00
 
 ## Preview
 
