@@ -1,6 +1,6 @@
 ### FAMAE
 
-1. WRATH 0:23
+FAMA FAMA FAMA
 
 2. OMAN 1:00
 
