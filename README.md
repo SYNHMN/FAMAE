@@ -2,6 +2,8 @@
 
 FAMA FAMA FAMA
 
+1. WRATH 0:23
+
 2. OMAN 1:00
 
 3. GUAM 1:00
